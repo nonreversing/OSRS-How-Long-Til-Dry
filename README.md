@@ -10,3 +10,5 @@ The below example shows how many Vyres need to be pickpocketed for 50% of player
 You can configure the drop rate, number of drops, and expected percent to any account goal via prompts this script generates -- no need to modify the existing Python script! For example, here's a configuration for five (5) Voidwaker Hilt drops off Callisto, and how many kills it would take for 80% of players to achieve this:
 
 ![image](https://github.com/nonreversing/OSRS-How-Long-Til-Dry/assets/102334529/6b1228a4-0d92-40ec-a0b7-572c32e01e1d)
+
+To install: ```git clone https://github.com/nonreversing/OSRS-How-Long-Til-Dry```
